@@ -9,4 +9,8 @@
             Mulai Sekarang
         </a>
     </section>
+    <section class="text-center py-20 bg-white">
+        <h1 class="text-5xl font-bold">Daftar harga </h1>
+        <p class="mt-4 text-lg">Berikut daftar harga dari .... ini.</p>
+    </section>
 @endsection
