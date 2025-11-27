@@ -1,4 +1,4 @@
-<header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+<header class="d-flex flex-wrap justify-content-center mx-3 py-3 ">
     <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
         <svg class="bi me-2" width="40" height="32" aria-hidden="true">
             <use xlink:href="#bootstrap"></use>
@@ -9,9 +9,9 @@
         <li class="nav-item">
             <a href="#" class="nav-link active" aria-current="page">Home</a>
         </li>
-        <li class="nav-item"><a href="#" class="nav-link">Features</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Pricing</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">FAQs</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">About</a></li>
+        <li class="nav-item"><a href="#2" class="nav-link">Features</a></li>
+        <li class="nav-item"><a href="#3" class="nav-link">Pricing</a></li>
+        <li class="nav-item"><a href="#4" class="nav-link">About</a></li>
+        {{-- <li class="nav-item"><a href="#4" class="nav-link">FAQs</a></li> --}}
     </ul>
 </header>
