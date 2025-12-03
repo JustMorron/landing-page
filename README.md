@@ -4,3 +4,5 @@ berisi : - Navbar
         - Pricing
         - About
         - Footer
+
+masih statis belum dinamis
